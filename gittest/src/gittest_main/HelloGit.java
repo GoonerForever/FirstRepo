@@ -8,7 +8,7 @@ public class HelloGit {
 		
 		System.out.println("I am GoonerForever...");
 		
-		System.out.println("--->first change after first checkout...");
+		System.out.println("--->first change after first checkout......");
 
 	}
 
