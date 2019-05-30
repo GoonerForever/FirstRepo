@@ -7,6 +7,8 @@ public class HelloGit {
 		System.out.println("Hello everyone,this is my first git project...");
 		
 		System.out.println("I am GoonerForever...");
+		
+		System.out.println("--->first change after first checkout...");
 
 	}
 
